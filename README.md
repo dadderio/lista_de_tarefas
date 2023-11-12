@@ -3,6 +3,8 @@
 
 ### Lista de tarefas elaborada em HTML, CSS e jQuery.
 
+Na disciplina Programação Web, da UNICID, desenvolvi uma Lista de Tarefas utilizando jQuery.
+
 "O jQuery é uma biblioteca JavaScript criada por John Resig e disponibilizada como
 software livre e aberto, ou seja, de código open source, fornecida gratuitamente.
 Sua biblioteca é utilizada para adicionar interatividade e dinamismo às páginas
