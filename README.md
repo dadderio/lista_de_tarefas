@@ -1,7 +1,6 @@
-# lista_de_tarefas
-## Lista de tarefas
+# Lista de tarefas
 
-### Lista de tarefas elaborada em HTML, CSS e jQuery.
+## Lista de tarefas elaborada em HTML, CSS e jQuery.
 
 Na disciplina Programação Web, da UNICID, desenvolvi uma Lista de Tarefas utilizando jQuery.
 
